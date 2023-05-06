@@ -63,9 +63,8 @@ h2 {
 .container-filters {
   flex: 1;
   margin-right: 60px;
-  /* max-width: 260px;
-  min-width: 180px; */
-  width: 250px;
+  min-width: 140px; 
+  max-width: 242;
 }
 
 .container-header {
